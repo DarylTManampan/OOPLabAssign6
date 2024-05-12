@@ -14,4 +14,9 @@ Create a repository in your GitHub account. Put your solution there. The readme 
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
+**sample output:**
 ![TestOutput.png](https://github.com/DarylTManampan/OOPLabAssign6/blob/main/TestOutput.PNG)
+
+#uml class diagram
+
+![UML Class Diagram Lab6.png](https://github.com/DarylTManampan/OOPLabAssign6/blob/main/UML%20Class%20Diagram%20Lab6.png)
